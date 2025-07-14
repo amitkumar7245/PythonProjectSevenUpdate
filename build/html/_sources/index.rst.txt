@@ -101,10 +101,6 @@ Final Thoughts
 In crypto, **speed and security are everything**. Whether you’re locked out, facing a transfer issue, or simply need answers, Crypto.com’ Support Number (+1⥄806⥄281⥄2627) OR (+1- (636) 252 0271) evolving support structure — including chat, email, help center, and potential call options — **ensures help is just a click (or call) away**.
 
 
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
-
 
 .. toctree::
    :maxdepth: 2
